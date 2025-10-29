@@ -18,12 +18,12 @@ I especially try to find lower and upper bounds for tree automata on dynamic tre
 [dblp](https://dblp.org/pid/344/5949.html)
 
 * [Analytical Integral Global Optimization](https://proceedings.mlr.press/v283/labbe25a.html) 
-<br/>Sebastien Labbe, Andrea Del Del Prete
+<br/>Sebastien Labbe, [Andrea Del Prete](https://andreadelprete.github.io/)
 
 * [When-Provenance: Leveraging Provenance Semirings for Temporal Data Tracking](https://ceur-ws.org/Vol-3954/paper6243.pdf)
-<br/>Sebastien Labbe, Samuele Langhi, Angela Bonifati and Riccardo Tommasini
+<br/>Sebastien Labbe, Samuele Langhi, [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/) and [Riccardo Tommasini](https://www.riccardotommasini.com/)
 
 * [Skyline Operators for Document Spanners](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICDT.2024.7)
-<br/>Antoine Amarilli, Benny Kimelfeld, Sebastien Labbe, Stefan Mengel 
+<br/>[Antoine Amarilli](https://a3nm.net/), [Benny Kimelfeld](https://benny.cs.technion.ac.il/), Sebastien Labbe, [Stefan Mengel](https://www.cril.univ-artois.fr/~mengel/)
 
 
