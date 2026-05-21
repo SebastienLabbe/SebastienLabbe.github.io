@@ -27,4 +27,4 @@ My main area of interest are <i>automata theory</i>, <i>dynamic tree algorithms<
 <br/>[Antoine Amarilli](https://a3nm.net/), [Benny Kimelfeld](https://benny.cs.technion.ac.il/), Sebastien Labbe, [Stefan Mengel](https://www.cril.univ-artois.fr/~mengel/)
 
 * [<b>Out-of-Order Membership to Regular Languages</b>](https://arxiv.org/abs/2602.13100v1)
-<br/>[Antoine Amarilli](https://a3nm.net/), Sebastien Labbe, [Charles Paperman] (https://paperman.name/)
+<br/>[Antoine Amarilli](https://a3nm.net/), Sebastien Labbe, [Charles Paperman](https://paperman.name/)
